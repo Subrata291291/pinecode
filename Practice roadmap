@@ -1,0 +1,33 @@
+STEP 1  → dotenv + API key
+          ↓
+STEP 2  → SentenceTransformer
+          ↓
+STEP 3  → Text → Embedding
+          ↓
+STEP 4  → 384 dimensions বুঝব
+          ↓
+STEP 5  → Pinecone Index
+          ↓
+STEP 6  → Upsert
+          ↓
+STEP 7  → Metadata
+          ↓
+STEP 8  → Query
+          ↓
+STEP 9  → Semantic Search
+          ↓
+STEP 10 → Top-K
+          ↓
+STEP 11 → Similarity Score
+          ↓
+STEP 12 → Metadata Filter
+          ↓
+STEP 13 → $eq / $in / $and
+          ↓
+STEP 14 → Chunking
+          ↓
+STEP 15 → Complete RAG
+          ↓
+STEP 16 → LLM
+          ↓
+STEP 17 → Evaluation

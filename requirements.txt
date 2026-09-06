@@ -1,0 +1,6 @@
+python-dotenv
+pinecone
+sentence-transformers
+
+
+##python -m pip install -r requirements.txt
